@@ -22,3 +22,7 @@ table, th, td {
 .maybe {
     background-color:rgb(243, 233, 142);
 }
+
+.no {
+    background-color: crimson;
+}
