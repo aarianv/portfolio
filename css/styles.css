@@ -5,3 +5,20 @@ img {
     margin-right: auto;
     display: block;
 }
+
+table {
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.yeah {
+    background-color:lightgreen;
+}
+
+.maybe {
+    background-color:rgb(243, 233, 142);
+}
